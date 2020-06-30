@@ -1,6 +1,6 @@
 # HandTrackingSyncDemo
 WebXR Tech Tokyoの展示物です。  
-OculusQuestのハンドトラッキング同期サンプルになります。　
+OculusQuestのハンドトラッキング同期サンプルになります。  
 4人まで同期できるように設定してます。  
 
 ![SyncHand4](https://user-images.githubusercontent.com/41860455/86002342-2ab46380-ba4b-11ea-9841-f1968fcbc74e.gif)
